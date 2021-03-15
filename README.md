@@ -8,19 +8,181 @@ Good morning, dear professors:
 
 ​	It's my honor to be here  for this interview.
 
-​	My name is dengbowen, I'm 22 years old, and come from yantai,  shandong province, the hometown of Confucius and Mencius. I am currently studying at the excellent college, ~~<u>**HangzhouDianzi**</u>~~ University, majoring in computer science.
+​	My name is dengbowen, **(my number is xxxxx(编号))**,I'm 22 years old, and come from yantai,  shandong province, the hometown of Confucius and Mencius. I am currently studying at the excellent college, HangzhouDianzi University, majoring in computer science.
 
 ​	During the past few years, I have worked very hard at my courses, so as to lay a solid foundation of theoretical knowledge. As a result, I have passed all the examinations and achieved excellent academic outcome in major courses such as Data warehouse and data mining, Operating System, Algorithm analysis and design, and Object-oriented Programming. Moreover, I have passed CET-4 and CET-6 with decent scores.
 
 ​	I have always enjoyed occupying myself, so I took part in a lot of extracurricular activities and contests, many of which ended up with a prize. Of course there were some contests that didn't go that well, but I learned from those failures as well. Those activities and contests broadened my horizon and equipped me with practical skills. As a result, I have acquired basic knowledge of my major both in theory and in practice.
 
-​	I want to seize this opportunity to study as a graduate, because,  I didn’t cherish some good opportunity to do research topics during early period of my undergraduate life.
+​	I want to seize this opportunity to study as a graduate, because,  I didn’t cherish some good opportunity to do research topics during early period of my undergraduate life. And I always believe that one will easily lag behind unless he keeps on learning. Of course, if I am given a chance to study in this famous University, **I will spare no effort to master a deeper command of  the knowledge of computer science** .
 
 ​	Thank you very much for attention!
 
 ### 英语问答
 
+#### (一) esearch plan/ graduate plan【针对研究计划的回答】
+
+I think I need to learn more knowledge rather than limited in a small area. The initial research topic must be in the same general direction of my supervisor. Because in this way, I can ask some questions during research process. To learn more, and explore my own ideas in the continuous research process. The ultimate goal is to find out my own ideas and strive to publish several high-level papers which my supervisor would also be satisfied, I would be better if at least one of my papers be adopted be journals included in SCI.
+
+#### (二) Study reason【针对学习的回答】
+
+I think people always want to be better. I also want to seize this opportunity to learn more advanced knowledge or skills in this field. The knowledge learned at undergraduate level may be limited to the theoretical part of the book. While graduates can learn to better apply and master it in practice, not just memorizing it.
+
+#### (三)Hometown / family【针对家乡、家庭的回答】
+
+**①Hometown**
+
+
+
+**②Family**
+
+I live with my parents and grandparents. I think I can’t tell too much stories about my family, it’s ordinary, no quarrels, peaceful. Thanks for this atmosphere, I have grown up happily. No one limited my study methods, only teach me moral principles to be a good person. Maybe it won’t be the best one in the world, but it’s best to me forever.
+
+#### (四) Life at college / undergraduate school / undergraduate school city【针对学校生活、毕业院校/城市的回答】
+
+**Beyond study time, and time when I doing research topics,** I like basketball, badminton, anime, and especially the Criminal-Investigation TV Series, like Signal from Korea, Unnatural Death from Japan, of course the Sherlock from Britain, and so on.
+
+**My undergraduate school** is located in the central area of Chengdu. The buildings in West China college campus are quite ancient. The academic atmosphere is strong. Though it may not catch up with PKU, it’s still on the relatively high level among universities in China, with nice teaching and scientific research ability. I really love experimental classes, though it always last for more than half day, I won’t feel boring.
+
+**My undergraduate school is located** in Chengdu, the capital city of Sichuan province.
+
+This city has a slower pace of life and a more suitable climate. The air is not as humid as CQ, my hometown, so even during the hottest period in the summer, we could still feel the cool wind from the shadow.
+
+Chengdu is also a developing center in the Midwest. Especially in recent years, it has formed a CD-CQ urban agglomeration with my hometown. Its development potential is huge, and the development trend is inevitable, even if its current level has not caught up with the first-tier four cities, I can’t say what will happen in the future.
+
+I have deep feelings for this city, I won’t forget my college and this city.
+
+#### (五) Courses learn / specialty recognize
+
+专业知识
+
+#### (六) Self-evaluation 【自我评价的问题】
+
+#### (七）Internship【工作中的注意点】
+
 ## 机试
+
+## 面试
+
+### 自我介绍
+
+各位尊敬的老师，上午/下午好，很高兴能够参加这次研究生考试复试环节。
+
+下面，我向各位老师介绍一下我自己。
+
+我叫邓博文。目前就读于杭州电子科技大学理工类实验班，我的专业是计算机科学与技术。
+
+在本科四年的学习中，我一直坚持刻苦钻研的精神，保持勤奋乐学的态度，认真对待专业课程的学习。我的综合成绩位于年级前列，多次获得奖学金，并且通过了英语四级和六级考试。
+
+在学习之外，我还积极参加各种项目竞赛，在竞赛将自己学到的知识加以运用，并且从中提高自己的实践能力。我先后参加了程序设计竞赛、物理创新竞赛、数学建模竞赛等比赛，都取得了不错的成绩。
+
+本科期间的学习让我对计算机这门学科产生了非常浓厚的兴趣，但是由于本科阶段我所学到的知识都还比较基础，因此我希望通过读研来对相关领域的知识进行更加系统深入的学习。
+
+以上就是我的自我介绍，感谢各位老师！
+
+### 本科课程
+
+#### 数字图像处理
+
+图像风格迁移
+
+### 本科项目
+
+基于深度学习的区块链货币价格预测系统。
+
+包括两个部分，一是对数据进行分析，探究区块链货币的大额交易对价格的影响。
+
+二是构建基于LSTM模型的区块链货币价格预测系统。
+
+#### 第一部分数据分析
+
+​	首先通过爬虫爬取了10w条区块链货币的交易数据。然后对数据进行预处理，剔除不完整的交易数据。之后筛选出交易额大于5000美元的交易数据，分别求出这些大额交易交易前后的100笔交易价格的平均值，和方差。并从所有数据中随机选取了1w条数据，同样求出这些交易交易前后100笔交易价格的平均值和方差。并进行对比。通过分析，我们发现大额买入可以提高区块链货币的价格，而大额卖出对区块链货币价格的影响不大。
+
+#### 第二部分构建基于LSTM模型的神经网络进行训练
+
+首先对数据进行进一步处理，包括：**去除离群点\对数据进行对数平滑，使之更加符合高斯分布\对数据进行归一化操作\one-hot编码等操作**，然后构建基于LSTM的深度神经网络，进行模型训练。训练好模型之后，通过调用API接口可以获取最新的80笔交易的价格，送入模型中即可实现区块链价格的预测。最后我们还实现了用户图形界面，将我们数据分析的结果和价格的预测结果进行可视化。
+
+#### LSTM
+
+LSTM是一种特殊的RNN，主要为了解决长序列训练过程中的梯度消失和梯度爆炸问题。
+
+梯度消失和梯度爆炸是困扰RNN模型训练的关键原因之一，产生梯度消失和梯度爆炸是由于RNN的**权值矩阵循环相乘**导致的，相同函数的多次组合会导致极端的非线性行为。
+
+**梯度消失：**一句话，RNN梯度消失是因为激活函数tanh函数的倒数在0到1之间，反向传播时更新前面时刻的参数时，当参数W初始化为小于1的数，则多个(tanh函数’ * W)相乘，将导致求得的偏导极小（小于1的数连乘），从而导致梯度消失。
+
+**梯度爆炸**：当参数初始化为足够大，使得tanh函数的倒数乘以W大于1，则将导致偏导极大（大于1的数连乘），从而导致梯度爆炸。
+
+相比于RNN只有一个传递状态h_t，LSTM有两个传输状态c_t（单元状态）和h_t。c_t改变的很慢，h_t则有很大变化
+
+LSTM的三个阶段
+
+忘记阶段、选择记忆阶段、输出阶段。
+
+#### Apriori/FP Tree
+
+诶普若瑞 
+
+关联规则挖掘
+
+Apriori算法：频繁项集，从频繁一项集开始，不断连接，剪枝
+
+如果一个项集是频繁项集那么它的子集也是频繁项集。
+
+如果一个项集不是频繁项集，那么它的超集也不是频繁项集
+
+每一次都要和整个数据库比较。
+
+FP Tree 只需要遍历两次，第一次构建树，第二次进行关联规则挖掘
+
+
+
+### 本科毕设
+
+#### YOLOv4
+
+单阶段目标检测算法，使用一个神经网络完成分类和回归任务，速度快。
+
+特征金字塔；残差网络；SPP最大池化；PANet上采样下采样特征融合；
+
+输出3*7    7=4+1+2（x_offset,y_offset,w,h,置信度和分类结果(2)）
+
+k-means聚类先验框，
+
+IOU=S交/S并
+
+IOU的特点
+
+与分类任务不同，我们的预测框的坐标需要去匹配实际框的坐标，而坐标的完全匹配是不现实的。因此，我们需要定义一个评估指标，奖励那些与匹配框匹配较好的预测框。
+
+dis=1-IOU
+
+输入（416，416，3）RGB图像
+
+输出为三个特征层的输出，(13,13,3,7)、(26,26,3,7)、(52,52,3,7)
+
+mish激活函数，出现负值时不是直接截断的，避免了梯度饱和，梯度下降效果好。
+
+SPP最大池化，它能够极大地增加感受野，分离出最显著的上下文特征
+
+PANet反复进行特征提取。
+
+每一个特征层对应三个预测框。
+
+画框---非极大抑制
+
+损失分为三部分。
+
+实际存在的框，**CIOU LOSS**。
+
+实际存在的框，**预测结果中置信度的值与1对比；实际不存在的框，预测结果中置信度的值与0对比，该部分要去除被忽略的不包含目标的框**。
+
+实际存在的框，**种类预测结果与实际结果的对比**。
+
+评价指标mAP:精确率（横着TP/TP+FP）和召回率（竖着TP/TP+FN）P-R曲线下的面积为AP，所有类别AP的平均值为mAP
+
+#### 椭圆肤色模型
+
+将RGB颜色空间映射到YCrCb颜色空间，忽略掉亮度的影响后将三维空间降维到CrCb二维空间，在CrCb空间中皮肤的像素点近似成一个椭圆分布，可用于提取皮肤特征。
 
 ## 笔试
 
@@ -498,6 +660,260 @@ Good morning, dear professors:
 
 ### 软件工程
 
+#### 软件工程概述
+
+##### 软件的定义：
+
+软件是**程序、数据、文档的完整集合**
+
+##### 软件的特点：
+
+8个特点（逻辑实体、手工开发、成本贵、复杂度高）
+
+##### 软件危机：
+
+1.开发 2.维护
+
+##### 软件工程的定义：
+
+采用工程的概念、原理、技术和方法来指导软件开发和维护的工程科学。
+
+##### 软件工程的7条基本原理：
+
+1)用分阶段的生命周期计划严格管理
+
+2)坚持进行阶段评审
+
+3)实行严格的产品控制
+
+4)采用现代的程序设计技术
+
+5)结果应该清楚的审查
+
+6)开发小组的人员应该小而精
+
+7)承认不断改进软件工程实践的必要性
+
+##### 软件工程三要素：
+
+方法、工具、过程
+
+##### 软件生命周期
+
+三个时期（包含8个阶段）：
+
+软件定义：
+
+包含问题定义、可行性研究、需求分析。
+
+软件开发：
+
+包含概要设计、详细设计（系统设计）、编码和单元测试、综合测试
+
+软件维护
+
+##### 软件生存期模型
+
+###### 瀑布模型
+
+各阶段具有顺序性和依赖性：
+
+前一阶段的输出是后一阶段的输入。
+
+前一阶段的输出文档是后一阶段的输入文档
+
+推迟实现：设置系统分析与设计，推迟物理实现
+
+每个阶段完成对应的文档。
+
+缺点：
+
+过渡依赖早期进行的唯一一次需求调查，不能适应需求的变化。
+
+由于瀑布模型是单一流程，开发中的经验无法反馈。
+
+###### 原型模型（演化模型）
+
+快速建立模型，交由用户使用、补充和修改。
+
+软件原型是软件的最初版本，以最少的费用、最短的时间开发出来，反映最后软件的主要特征
+
+能够克服瀑布模型的缺点，适当减少由软件需求不明确给开发工作带来风险。
+
+###### 其他模型：
+
+螺旋模型、喷泉模型、增量模型、智能模型。
+
+#### 系统分析
+
+可行性分析：技术可行性、经济可行性、操作可行性
+
+#### 需求分析
+
+##### 基本任务
+
+回答了系统必须做什么，明确目标系统的功能和性能
+
+##### 具体任务
+
+1）确定对系统的综合要求：
+
+功能要求；性能要求；运行要求；将来可能提出的要求。
+
+2）分析系统的数据要求：E-R图（概念模型）
+
+3）导出系统的逻辑模型：数据流图、数据字典、加工处理说明书
+
+4）修正系统开发计划
+
+5）开发原型系统
+
+##### 过程
+
+1）问题识别，确认软件需求：
+
+功能、性能、环境、可靠性
+
+2）分析与综合，给出详细的逻辑模型
+
+3）编写需求分析文档《需求规格说明书》
+
+4）技术审查和管理复审
+
+##### 需求分析的原则
+
+1）表达和理解问题的数据域和功能域
+
+数据域：数据流、数据结构和数据内容
+
+功能域：加工变换
+
+2）必须按自顶向下，逐层分解的方式对问题进行分解和不断细化。
+
+3）给出系统的逻辑视图和物理视图
+
+逻辑视图：给出软件要达到的功能和要处理的数据之间的关系。
+
+物理视图：给出处理功能和数据结构的实际表示形式。
+
+##### 结构化分析方法
+
+面向**数据流**进行需求分析的方法，是用抽象模型的概念，按软件内部数据传递、变换关系、**自顶向下**逐层分解，直到找到满足功能要求的所有可实现的软件为止
+
+##### 数据流图
+
+逻辑模型的一种图形表示。
+
+###### 数据流图与程序流图的区别：
+
+数据流图不能表示程序的控制结构。（如选择和循环）
+
+分层DFD：自顶向下、逐层分解、逐步细化。
+
+#####  数据字典
+
+关于数据的信息的集合，是对DFD中所有的元素定义的集合。
+
+##### 加工说明
+
+是对DFD中的加工所做的描述，包括输入数据、加工逻辑、输出数据等。
+
+仅仅指出加工要做什么，而不是怎样去做。
+
+描述方法：结构化语言、判定表、判定树。
+
+##### 验证软件的需求：
+
+一致性、有效性、完整性、现实性。
+
+
+
+概念模型：实体-联系的方法   E-R图
+
+#### 软件设计
+
+##### 软件设计概述
+
+任务：做什么-->怎么做
+
+两个阶段：
+
+概要设计：确定软件的结构，即软件的组成以及软件各个组成成分之间的相互转换。
+
+详细设计：确定模块内部的算法和数据结构，产生描述各个模块程序的详细设计文档。
+
+软件设计方法：面向数据流、面向数据结构。
+
+##### 软件设计策略
+
+###### 模块化设计
+
+1）模块
+
+2）分解
+
+**不能无限分解软件**
+
+随着模块数目增加，每个模块的规模减小，成本降低。但是相应的设计模块之间的接口成本将增加，使得软件总成本呈现抛物线形状，存在最小分区。
+
+3）信息隐蔽
+
+4）模块独立性
+
+度量模型独立性的标准：内聚和耦合
+
+内聚是模块功能强度的度量，模块内部各个元素之间的联系越紧密，内聚性越强。
+
+耦合是模块之间相对独立性的度量，模块之间的连接越紧密，耦合性越强
+
+**模块的独立性越高，块之间的联系越紧密，内聚性越强。块之间的联系越弱，耦合性越弱。**
+
+内聚：偶然内聚、逻辑内聚、时间内聚、过程内聚、通信内聚、顺序内聚、功能内聚。
+
+耦合：非直接耦合、数据耦合、特征耦合、控制耦合、外部耦合、公共耦合、内容耦合（教案P38）
+
+###### 自顶向下设计
+
+1.自顶向下设计
+
+2.逐步细化设计
+
+##### 概要设计
+
+概要设计要完成的功能
+
+1）制定规范
+
+2）软件结构的总体设计
+
+3）数据结构的设计
+
+4）编写文档
+
+5）技术审查和管理复查
+
+##### 结构化系统设计
+
+###### 变换型结构
+
+外部形式-->内部形式-->外部形式
+
+传入路径-->变换中心-->传出路径
+
+###### 事务型结构
+
+一条接受路径、一个事务中心、若干条动作路径
+
+模块的扇入：调用一个给定模块的数目
+
+模块的扇出：一个模块**直接调用**其他模块的数目
+
+高扇入、低扇出
+
+设计单入口单出口的模块：避免出现内容耦合。
+
+
+
 ### 体系结构
 
 #### 基本概念
@@ -776,121 +1192,119 @@ LR(0)文法，所有 的LR（0）项目集中没有移进-规约冲突和规约-
 
 SLR(1)文法，是指LR(0)项目集中含有的冲突项目集都可以用SLR规则解决冲突
 
-## 面试
 
-### 自我介绍
-
-老师们好，我是邓博文。目前就读于杭州电子科技大学理工类实验班，我的专业是计算机科学与技术。
-
-我在本科期间对计算机非常感兴趣，也参加了很多相关的比赛，如程序设计竞赛、数学建模竞赛等比赛。取得了不错的成绩。但是本科阶段我所学到的知识都还比较基础，因此想通过读研来对相关领域的知识进行更加系统深入的学习。
-
-### 本科课程
-
-#### 数字图像处理
-
-
-
-### 本科项目
-
-基于深度学习的区块链货币价格预测系统。
-
-包括两个部分，一是对数据进行分析，探究区块链货币的大额交易对价格的影响。
-
-二是构建基于LSTM模型的区块链货币价格预测系统。
-
-#### 第一部分数据分析
-
-​	首先通过爬虫爬取了10w条区块链货币的交易数据。然后对数据进行预处理，剔除不完整的交易数据。之后筛选出交易额大于5000美元的交易数据，分别求出这些大额交易交易前后的100笔交易价格的平均值，和方差。并从所有数据中随机选取了1w条数据，同样求出这些交易交易前后100笔交易价格的平均值和方差。并进行对比。通过分析，我们发现大额买入可以提高区块链货币的价格，而大额卖出对区块链货币价格的影响不大。
-
-#### 第二部分构建基于LSTM模型的神经网络进行训练
-
-首先对数据进行进一步处理，包括：**去除离群点\对数据进行对数平滑，使之更加符合高斯分布\对数据进行归一化操作\one-hot编码等操作**，然后构建基于LSTM的深度神经网络，进行模型训练。训练好模型之后，通过调用API接口可以获取最新的80笔交易的价格，送入模型中即可实现区块链价格的预测。最后我们还实现了用户图形界面，将我们数据分析的结果和价格的预测结果进行可视化。
-
-#### LSTM
-
-LSTM是一种特殊的RNN，主要为了解决长序列训练过程中的梯度消失和梯度爆炸问题。
-
-梯度消失和梯度爆炸是困扰RNN模型训练的关键原因之一，产生梯度消失和梯度爆炸是由于RNN的**权值矩阵循环相乘**导致的，相同函数的多次组合会导致极端的非线性行为。
-
-**梯度消失：**一句话，RNN梯度消失是因为激活函数tanh函数的倒数在0到1之间，反向传播时更新前面时刻的参数时，当参数W初始化为小于1的数，则多个(tanh函数’ * W)相乘，将导致求得的偏导极小（小于1的数连乘），从而导致梯度消失。
-
-**梯度爆炸**：当参数初始化为足够大，使得tanh函数的倒数乘以W大于1，则将导致偏导极大（大于1的数连乘），从而导致梯度爆炸。
-
-相比于RNN只有一个传递状态h_t，LSTM有两个传输状态c_t（单元状态）和h_t。c_t改变的很慢，h_t则有很大变化
-
-LSTM的三个阶段
-
-忘记阶段、选择记忆阶段、输出阶段。
-
-#### Apriori/FP Tree
-
-诶普若瑞 
-
-关联规则挖掘
-
-Apriori算法：频繁项集，从频繁一项集开始，不断连接，剪枝
-
-如果一个项集是频繁项集那么它的子集也是频繁项集。
-
-如果一个项集不是频繁项集，那么它的超集也不是频繁项集
-
-每一次都要和整个数据库比较。
-
-FP Tree 只需要遍历两次，第一次构建树，第二次进行关联规则挖掘
-
-
-
-### 本科毕设
-
-#### YOLOv4
-
-单阶段目标检测算法，使用一个神经网络完成分类和回归任务，速度快。
-
-特征金字塔；残差网络；SPP最大池化；PANet上采样下采样特征融合；
-
-输出3*7    7=4+1+2（x_offset,y_offset,w,h,置信度和分类结果(2)）
-
-k-means聚类先验框，
-
-IOU=S交/S并
-
-IOU的特点
-
-与分类任务不同，我们的预测框的坐标需要去匹配实际框的坐标，而坐标的完全匹配是不现实的。因此，我们需要定义一个评估指标，奖励那些与匹配框匹配较好的预测框。
-
-dis=1-IOU
-
-输入（416，416，3）RGB图像
-
-输出为三个特征层的输出，(13,13,3,7)、(26,26,3,7)、(52,52,3,7)
-
-mish激活函数，出现负值时不是直接截断的，避免了梯度饱和，梯度下降效果好。
-
-SPP最大池化，它能够极大地增加感受野，分离出最显著的上下文特征
-
-PANet反复进行特征提取。
-
-每一个特征层对应三个预测框。
-
-画框---非极大抑制
-
-损失分为三部分。
-
-实际存在的框，**CIOU LOSS**。
-
-实际存在的框，**预测结果中置信度的值与1对比；实际不存在的框，预测结果中置信度的值与0对比，该部分要去除被忽略的不包含目标的框**。
-
-实际存在的框，**种类预测结果与实际结果的对比**。
-
-评价指标mAP:精确率（横着TP/TP+FP）和召回率（竖着TP/TP+FN）P-R曲线下的面积为AP，所有类别AP的平均值为mAP
-
-#### 椭圆肤色模型
-
-将RGB颜色空间映射到YCrCb颜色空间，忽略掉亮度的影响后将三维空间降维到CrCb二维空间，在CrCb空间中皮肤的像素点近似成一个椭圆分布，可用于提取皮肤特征。
 
 ## 专业知识
 
-### 数据库
+### 组成原理
+
+#### 计算机系统概述
+
+系统组成：运算器，存储器，控制器，输入设备，输出设备
+
+性能指标：机器字长、指令字长、存储字长
+
+吞吐率、响应时间、时钟周期
+
+编译程序和解释程序的区别：
+
+编译程序：生成目标程序，先编译再执行，一次编译多次执行。
+
+解释程序：解释一句，执行一句。
+
+#### 数据的表示和运算
+
+##### 数制与编码
+
+汉字编码：输入码、内码、字形码
+
+区位码和国标码都是**内码**
+
+国标码=区位码+2002H
+
+内码=国标码+8080H
+
+校验：奇偶校验码、海明校验码、循环冗余校验码
+
+##### 定点数
+
+原码、反码、补码、移码
+
+##### 浮点数
+
+对介、尾数求和、规格化
+
+#### 存储系统
+
+##### 层次结构
+
+cache-->主存-->磁盘-->磁带-->光盘
+
+##### 半导体存储器
+
+###### RAM：
+
+SRAM：静态RAM，双稳态触发器，不用刷新
+
+DRAM：动态RAM，电容电荷。需要刷新
+
+集中刷新、分散刷新、异步刷新
+
+###### ROM：
+
+##### 主存与CPU连接
+
+位扩展、字扩展、字位扩展。
+
+线选法、译码片选法
+
+##### 提速方案
+
+双端口RAM，时间并行
+
+多模块存储器：空间并行
+
+单体多字存储器
+
+多体交叉存储器：
+
+高位交叉、低位交叉
+
+##### Cache
+
+解决CPU与主存之间速度的矛盾
+
+**Cache中是副本，利用程序的局部性原理**
+
+###### 映射方式：
+
+直接映射、全相联映射、组相联映射
+
+###### 替换算法：
+
+随机算法、先进先出、近期最少使用、最不经常使用
+
+###### 写策略：
+
+全写法：写缓冲  Cache不命中时非写分配
+
+写回法：脏位 	 Cache不命中时写分配（将主存中的信息调入Cache，并更新Cache）
+
+##### 虚拟存储器
+
+解决主存不足的问题
+
+分页、分段、段页式
+
+置换策略：
+
+OPT、FIFO、LRU、CLOCK
+
+地址翻译：
+
+TLB->页表->Cache->主存->外存
+
+
 
 ### OS
 
@@ -2018,6 +2432,44 @@ strlen是一个函数，求的是字符串的实际长度，它求得方法是�
 因为我没有经历过研究生阶段，不了解研究生的学习和生活是怎样的，因此目前没有十分明确的规划。
 
 但是我觉得衡量读研究生这三年有没有价值的一点是，研究生毕业后从事的工作与本科毕业从事的工作是否有差别。如果研究生毕业后从事着和本科生一样的工作，那我觉得读研这三年就被浪费掉了。因此我觉得读研这三年不仅仅是为了混一个文凭，而是要真正学到一些知识的。
+
+### 数据库部分面试问题总结
+
+#### 存储过程和函数的区别：
+
+存储过程是**用户定义**的一系列SQL语句的集合，他可以涉及到多个特定的表以及其他对象过程，用户可以调用存储过程。
+
+而函数是数据库中已经定义的方法，它接受参数并返回某种类型的值，但是不涉及特定用户表。
+
+#### 什么是数据库事务；
+
+事务是作为单个逻辑单元执行的一系列操作，这些操作要么全做要么全不做，是一个不可分割的工作单位。
+
+事务具有原子性、一致性、独立性、持久性。
+
+#### 关于触发器：
+
+事前触发器，运行于触发事件之前。
+
+事后触发器：运行于触发事件之后。
+
+行级触发器：触发操作影响的每一行触发一次。
+
+语句级触发器：每一条
+
+语句触发一次。
+
+#### 聚集索引和非聚集索引
+
+聚集索引的顺序是数据的物理存储顺序，而非聚集索引的顺序与数据物理排列顺序无关。
+
+**因此，每个表只能有一个聚集索引**
+
+在SQL Service中索引是由二叉树数据结构来描述的，因此对于聚集索引而言，叶结点即时索引节点也是数据节点；而对于非聚集索引而言，叶结点仅仅是索引节点而已。
+
+聚集索引确定表中数据的物理顺序，类比电话簿按字母薄排序
+
+非聚集类比课本的 目录。
 
 
 
