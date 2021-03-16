@@ -8,9 +8,9 @@ Good morning, dear professors:
 
 ​	It's my honor to be here  for this interview.
 
-​	My name is dengbowen, **(my number is xxxxx(编号))**,I'm 22 years old, and come from yantai,  shandong province, the hometown of Confucius and Mencius. I am currently studying at the excellent college, HangzhouDianzi University, majoring in computer science.
+​	My name is dengbowen, **(my number is xxxxx(编号))**,I'm 22 years old, and come from yantai,  shandong province, the hometown of Confucius and Mencius. I am currently studying at the excellent college of HangzhouDianzi University, majoring in computer science.
 
-​	During the past few years, I have worked very hard at my courses, so as to lay a solid foundation of theoretical knowledge. As a result, I have passed all the examinations and achieved excellent academic outcome in major courses such as Data warehouse and data mining, Operating System, Algorithm analysis and design, and Object-oriented Programming. Moreover, I have passed CET-4 and CET-6 with decent scores.
+​	During the past few years, I have worked very hard at my courses, so as to lay a solid foundation of theoretical knowledge. As a result, I have passed all the examinations and achieved excellent academic outcome in major courses such as Data warehouse and data mining, Operating System, Algorithm analysis and design. Moreover, I have passed CET-4 and CET-6 with decent scores.
 
 ​	I have always enjoyed occupying myself, so I took part in a lot of extracurricular activities and contests, many of which ended up with a prize. Of course there were some contests that didn't go that well, but I learned from those failures as well. Those activities and contests broadened my horizon and equipped me with practical skills. As a result, I have acquired basic knowledge of my major both in theory and in practice.
 
@@ -38,29 +38,27 @@ I think people always want to be better. I also want to seize this opportunity t
 
 I live with my parents and grandparents. I think I can’t tell too much stories about my family, it’s ordinary, no quarrels, peaceful. Thanks for this atmosphere, I have grown up happily. No one limited my study methods, only teach me moral principles to be a good person. Maybe it won’t be the best one in the world, but it’s best to me forever.
 
-#### (四) Life at college / undergraduate school / undergraduate school city【针对学校生活、毕业院校/城市的回答】
+#### (四）Interesting【个人兴趣+特长】
 
-**Beyond study time, and time when I doing research topics,** I like basketball, badminton, anime, and especially the Criminal-Investigation TV Series, like Signal from Korea, Unnatural Death from Japan, of course the Sherlock from Britain, and so on.
+I love travlling, which is a way to broaden my horizons, through which I can learn about different cultures of the country.
 
-**My undergraduate school** is located in the central area of Chengdu. The buildings in West China college campus are quite ancient. The academic atmosphere is strong. Though it may not catch up with PKU, it’s still on the relatively high level among universities in China, with nice teaching and scientific research ability. I really love experimental classes, though it always last for more than half day, I won’t feel boring.
+Most of the time you will find that your views on your previous studies and life have changed when you enter a new environment by travelling and changing the environment, we can re-examine ourselves and get out of trouble
 
-**My undergraduate school is located** in Chengdu, the capital city of Sichuan province.
+I am great at playing erhu. I started to learn it when I was 10 years old. And I have won the amateur top level certificate of it.
 
-This city has a slower pace of life and a more suitable climate. The air is not as humid as CQ, my hometown, so even during the hottest period in the summer, we could still feel the cool wind from the shadow.
+Thanks to my specialty, not only does it help me master one more skill, but also enriches the contents of my life.
 
-Chengdu is also a developing center in the Midwest. Especially in recent years, it has formed a CD-CQ urban agglomeration with my hometown. Its development potential is huge, and the development trend is inevitable, even if its current level has not caught up with the first-tier four cities, I can’t say what will happen in the future.
 
-I have deep feelings for this city, I won’t forget my college and this city.
 
-#### (五) Courses learn / specialty recognize
+#### (五) Life at college / undergraduate school / undergraduate school city【针对学校生活、毕业院校/城市的回答】
 
-专业知识
+Alth my alma mater is not a famous school, I still appreciate it because it gives me a chance to improve myself.
 
-#### (六) Self-evaluation 【自我评价的问题】
+In the university, I gained not only knowledge, but also precious feelings of teachers and students, classmates. I discussed professional issues with my classmates and participated in sports. Because of them ,I also discovered my new hobbies. Many thanks to my classmates and teachers for their tolerance and help, they have made my college life more meaningful.
 
-#### (七）Internship【工作中的注意点】
+#### (六) Stress 【压力面试】
 
-## 机试
+If I fail the retest, I will not immerse myself in the pain of failure, but reflect on what problems I have and try to find the solutions, which is the biggest harvest of this experience.
 
 ## 面试
 
@@ -912,7 +910,163 @@ PANet反复进行特征提取。
 
 设计单入口单出口的模块：避免出现内容耦合。
 
+#### 详细设计
 
+##### 目的
+
+为软件层次图（HC）或结构图（SC）中的各个模块确定采用的算法和块内数据结构
+
+##### 结构化程序设计
+
+是一种程序设计技术，采用自顶向下，逐步求精的设计方法和单入口，单出口的控制结构。
+
+优点：
+
+自顶向下、逐步求精的方法，提高软件开发的成功率和生产率
+
+先全局后局部，先整体后细节，先抽象后具体的逐步求精的方式开发，层次结构清晰。
+
+**不使用GOTO，仅使用单入口单出口**
+
+顺序、选择、循环
+
+详细设计的描述工具：
+
+程序流程图
+
+N_S图（盒图）
+
+PAD图
+
+伪码（PDL语言）
+
+#### 编码
+
+##### 目的
+
+使用选定的程序设计语言，把模块的过程描述翻译为用该语言书写的源程序（或源代码）。模块的过程描述-->源程序
+
+##### 编码风格的要求
+
+1）实现源程序的文档化   符号名   程序进行适当的注解   程序的视觉组织
+
+2）数据说明：常量、变量等的声明
+
+3）语句结构：力求简单、直接
+
+4）输入输出
+
+#### 测试
+
+##### 基本概念
+
+测试是为了发现错误而执行的程序过程，即根据软件开发各个阶段的规格说明和程序内部结构而精心设计的一批测试用例，并利用这些测试用例来运行程序，以发现程序中的错误。
+
+测试的目的：发现程序中的错误
+
+纠错：确定程序中的错误，并加以纠正。
+
+##### 测试的方法
+
+白盒测试：
+
+测试者对被测试对象的内部结构是清楚的，从程序的逻辑结构入手按照一定的原则来设置测试用例，设定测试数据。
+
+黑盒测试：
+
+测试者把测试程序看成一个黑盒，不关心程序的内部结构，设计测试用例时，仅以程序的外部功能为依据。一方面考察程序能否完成应该做的事，另一方面考察他能否拒绝一切不该做的事。
+
+##### 测试的步骤
+
+单元测试：以模块为单位
+
+综合测试：以设计信息为单位
+
+3确认测试：以软件的需求信息为单位
+
+系统测试：
+
+**单元测试以黑盒测试和白盒测试相结合，其他测试以黑盒测试为主**
+
+测试用例 = ｛输入数据+预期结果｝
+
+##### 黑盒测试方法
+
+等价划分法
+
+边界值分析法
+
+错误推测法
+
+因果图法
+
+##### 白盒测试方法
+
+###### 逻辑覆盖法
+
+对一系列测试过程的总称，这组测试过程逐渐进行越来越完整的通路测试。
+
+测试过程分类：
+
+1）语句覆盖：每个语句
+
+2）判定覆盖：每个分支
+
+2）判定覆盖
+
+3）条件覆盖：每个条件按真、假各执行一次
+
+4）判定/条件覆盖：判定中每个条件都取到各种可能的值。
+
+5）条件组合覆盖：要求判定中每个条件的各种可能组合都至少出现一次。
+
+###### 路径测试法
+
+借助程序流程图设计测试用例的一种白盒测试方法
+
+1）结点覆盖：程序中的测试路径至少经过流程图中的每个结点一次。
+
+2）边覆盖：至少进过每个边一次。
+
+3）路径覆盖：至少经过每个路径一次。
+
+**路径覆盖与逻辑覆盖的区别**
+
+逻辑覆盖着眼于每个单独的逻辑结点，而路径覆盖考察的 是整个路径。把路径覆盖和逻辑覆盖结合起来就可以实现查错能力最强的白盒测试。
+
+#### 软件维护
+
+##### 定义：
+
+在软件已经交付使用之后，为了改正错误或满足新的需要而修改软件的过程。
+
+##### 目的：
+
+满足用户对已经开发产品的性能与软件，进而达到延长软件的寿命
+
+##### 分类：
+
+1）完善性维护：满足新的功能或者性能要求。
+
+2）适应性维护：使软件适应软硬件环境的变化
+
+3）纠错性维护：纠正在开发阶段发生的错误
+
+4）其他维护：为减少今后工作量进行的维护
+
+##### 可维护性
+
+衡量容易程度的一种属性。
+
+影响可维护性的软件属性
+
+可理解性、可修改性、可测试性
+
+提高可维护性的方法；
+
+提供完整和一致的文档
+
+采用现代化的开发方法
 
 ### 体系结构
 
@@ -1303,6 +1457,138 @@ OPT、FIFO、LRU、CLOCK
 地址翻译：
 
 TLB->页表->Cache->主存->外存
+
+#### 指令系统
+
+##### 指令格式
+
+操作码：指出指令中该指令应该执行什么性质的操作和具有何种功能
+
+地址码：给出被操纵信息的地址或者操作数本身
+
+定长操作码：最高位固定若干位作为操作码
+
+变长操作码：全部指令的操作码字段的位数不固定
+
+##### 寻址方式
+
+指令寻址：
+
+顺序寻址，PC自动+1
+
+跳跃寻址，通过转移类指令直接或间接给出下一条指令的地址
+
+数据寻址：
+
+隐含寻址、立即寻址、直接寻址、间接寻址、
+
+寄存器寻址、寄存器间接寻址、相对寻址、基址寻址、变址寻址、堆栈寻址
+
+##### CICS和RICS
+
+CICS：指令数目多，字长不固定，寻址方式多，寄存器数量少，一般为微程序控制
+
+RICS：指令数目少，字长固定，寻找方式少，寄存器数目多，一般为硬布线控制（组合逻辑控制）
+
+##### 变址寻址和基址寻址的区别
+
+变址寻址面向用户，用于处理数组问题，适合编制循环程序。
+
+基址寻址面向os，常用于为程序或数据分配存储空间。
+
+#### 中央处理器
+
+取指令、分析指令、执行指令，程序的顺序控制
+
+基本结构：运算器、控制器
+
+##### 指令的执行过程
+
+指令周期：
+
+取指周期、间指周期、执行周期、中断周期
+
+执行方案：
+
+单指令周期
+
+多指令周期
+
+流水线方案
+
+##### 控制器
+
+###### 硬布线控制器
+
+###### 微程序控制器
+
+控制存储器、微指令寄存器、微地址寄存器
+
+编码方式：
+
+直接编码
+
+字段直接编码：互斥的命令放在一起
+
+字段间接编码：某些微命令需要另一个段的微命令解释
+
+##### 指令流水线
+
+按级别：功能部件级、处理机级、处理机间
+
+按完成功能：单功能流水线、多功能流水线
+
+按连接方式：动态流水线、静态流水线
+
+按有无反馈信号：线性流水线、非线性流水线
+
+###### 影响因素
+
+结构相关、数据相关、控制相关
+
+###### 基本技术
+
+超标量流水线、超流水线、超长指令字
+
+#### 总线
+
+##### 分类
+
+片内总线、系统总线、通信总线。
+
+##### 仲裁
+
+集中式：
+
+链式查询、计数器定时查询、独立请求方式
+
+分布式：
+
+每个模块有自己的仲裁器和仲裁号
+
+##### 定时
+
+同步：系统采用统一的时钟信号
+
+异步：不互锁、半互锁、全互锁
+
+#### I/O方式
+
+##### 程序查询
+
+##### 程序中断
+
+中断隐指令：
+
+关中断、保存端点、引出中断服务程序
+
+##### DMA
+
+传送方式：
+
+停止CPU访存、交替访存、周期挪用
+
+
 
 
 
@@ -2470,6 +2756,423 @@ strlen是一个函数，求的是字符串的实际长度，它求得方法是�
 聚集索引确定表中数据的物理顺序，类比电话簿按字母薄排序
 
 非聚集类比课本的 目录。
+
+## 数据库面试
+
+### 存储过程
+
+存储过程是一些预编译的SQL语句。
+
+存储过程是一个记录集，它是由一些T-SQL语句组成的代码块，这些代码块可以像**一个方法**一样实现一些功能
+
+存储过程的优点：
+
+存储过程是一个预编译的代码块，执行效率比较高。
+
+一个存储过程替代大量T_SQL语句，可以降低网络通信量。
+
+可以一定程度上确保数据安全。
+
+### 索引是什么，有什么优点和缺点
+
+索引是对数据库表中**一个或者多个列的值进行排序**的结构，是帮助MySQL高效获取数据的数据结构。
+
+类比书籍中的索引，允许用户不必翻阅整个书籍就可以迅速找到所需的信息。在数据库中，允许数据库程序迅速找到表中的数据，而不必扫描整个数据库。
+
+几个基本的索引类型：普通索引、唯一索引、主键索引、全文索引。
+
+索引的优点：
+
+加快数据库的检索速度。
+
+唯一索引可以确保每一行数据的唯一性。
+
+缺点：
+
+索引降低了插入、删除、修改等维护任务的速度。
+
+索引需要占用物理和数据空间
+
+
+
+### 什么是事务
+
+事务是并发控制的基本单位。
+
+事务是一个操作序列，这些操作要么都执行、要么都不执行，它是一个不可分割的工作单位
+
+事务的特性**ACID**
+
+原子性、一致性、隔离性、持久性
+
+原子性：一个事务要么完整执行、要么干脆不执行
+
+一致性：底层数据存储的完整性，比如转账总金额不变
+
+隔离性：事务必须在不干扰其他进程或事务的前提下独立执行。
+
+持久性：某个事务的执行过程中，对数据所做的所有改动都必须在事务成功结束之前保存到某种物理存储设备。这样可以保证，所作的修改在任何系统瘫痪时不至于丢失。
+
+### 数据库的乐观锁和悲观锁
+
+悲观锁：假定会发生**并发**冲突，屏蔽一切可能违反数据库完整性的操作。
+
+乐观锁：假定不会发生**并发**冲突，只在提交操作时检查是否违反数据完整性。
+
+两种锁是并发控制主要采用的技术手段。
+
+数据库中并发控制的任务是确保在多个事务同时存取数据库中同一数据时不破坏事务的隔离性和统一性以及数据库的统一性
+
+### 什么是视图、视图的使用场景有哪些
+
+视图是一种虚拟的表，具有和物理表相同的功能。
+
+可以对视图进行增、删、改、查等操作。视图通常是有一个表或者多个表的行或列的子集。**修改视图，基本表也会修改**。
+
+视图的使用场景：
+
+只暴露部分字段给访问者，所以就建立一个虚表，就是视图。
+
+查询的数据来源于不同的表，而查询者希望以统一的方式查询，这样也可以建立一个视图。把多个表查询的结果联合起来，查询者只需要直接从视图中获取数据，不必考虑数据来源于不同表所带来的差异。
+
+### 三个范式
+
+第一范式：数据库表中的字段都是单一属性的，不可分的。
+
+第二范式：所有非关键字都完全依赖于任意一组候选关键字。
+
+第三范式：取消了传递依赖。
+
+### 使用索引查询一定可以提高查询性能吗？
+
+不一定。
+
+通常，通过索引查询数据比全表扫描要快，但是**索引需要空间来储存，也要定期维护**，每当有记录在表中增减或者索引列被修改时，索引也会被修改。因为索引需要额外的存储空间和处理，那些不必要的索引反而会使查询反应时间变慢。
+
+### drop、delete、truncate 的区别
+
+delete和truncate只删除表的数据不删除表的结构
+
+速度：drop>truncate>delete
+
+delete语句是DML，这个操作会放到rollback segement中，事务提交之后才生效；如果相应的trigger（触发器），执行的时候将被触发，
+
+truncate和drop是ddl，操作立即生效。
+
+当不再需要一张表的时候，用drop
+
+想删除部分数据行的时候，用delete
+
+保留表而删除全部数据时，用truncate
+
+### 超码、候选码、主码、外码
+
+超码：在关系中能唯一表示元组的属性的集合称为超码，一个属性可以作为一个超码，多个属性组合在一起也可以作为一个超码。超码包含候选码和主码
+
+候选码：是最小的超码，即没有冗余元素的超码
+
+主码：所有候选码中选一个作为主码，主码不为空
+
+主属性：在所有候选码中都存在的属性
+
+外码：在一个表中存在的另一个表中的主键称为此表的外键。
+
+### 关系数据库有哪些操作，他们的职责是什么
+
+查询：选择、投影、连接、除运算、并、交、差
+
+数据更新：插入、删除、修改
+
+### DBA的职责
+
+DBA是一个组（人员），负责全面管理和控住数据库系统
+
+1）决定数据库中的信息内容和结构：数据库中要放哪些信息。
+
+2）决定数据库的存储结构和存取策略：获得较高的存储效率和存储空间利用率。
+
+3）定义数据库的安全性要求和完整性约束条件
+
+4）监控数据库的使用和运行：转储数据、维护日志、故障恢复
+
+5）数据库的改进和重组重构。
+
+### 数据库保护的内容有哪些
+
+利用权利机制、利用完整性约束房子和非法数据进入数据库，提供故障恢复能力，提供并发访问控制。
+
+### 数据库外模型与内模式
+
+数据库的外模式也称用户模式，描述的是用户可见的局部数据逻辑结构和特征，数据库用户的数据视图，**外模式通常是模式的子集**
+
+数据库的内模式也称存储模式，描述的是数据库的物理结构和存储方式，是数据在数据库内部的组织方式。
+
+模式：数据库全体数据的逻辑结构和特征描述，是所有用户的公共数据视图（基本表）
+
+一个数据库可以有多个外模式，但一个应用程序只有一个外模式。
+
+一个数据库只有一个模式，一个内模式
+
+### 数据字典
+
+是关系数据库管理系统内部的一组系统表，记录了数据库中所有的定义信息。关系数据库管理系统在执行SQL的数据定义语句时，实际上在更新数据字典中相应的信息。
+
+### 数据独立性
+
+逻辑独立性：当模式改变时，通过数据库管理员对外模式/模式的映像做出相应的改变，使外模式保持不变。
+
+物理独立性：但数据库存储结构改变时，有数据库管理员对模式/内模式的映像做出相应的改变，可以使模式保持不变，从而使应用程序也保持不变。保持了物料独立性
+
+### 关系与关系模式、关系数据库
+
+关系是关系模式在某一时刻的状态或内容。关系模式是静态的、稳定的，而关系是动态的、随时间不断变化的，因为关系操作在不断地更新着数据库中的数据。关系数据库是以关系模型为基础的数据库，它利用关系来描述现实世界，一个关系既可以用来描述一个实体及其属性，也可以用来描述实体间的联系。
+
+### 完整性约束
+
+实体完整性：主属性不能为空
+
+参照完整性：外码或为空，或取主属性域中是值
+
+用户定义完整性。
+
+### 什么是数据模型，什么是规范化？
+
+数据模型：标识一种实体类型以及实体之间联系的模型。典型的数据模型有网状模型、层次模型和关系模型。
+
+规范化：从关系数据库的表中，除去冗余数据的过程
+
+包括：精简数据库的结构，从表中删除冗余的列，标识所有依赖于其他数据的数据。
+
+## 数据结构面试
+
+###  数组和链表的区别
+
+数组在内存中是连续存储的，因此可以利用下标进行**随机访问**，链表是链式结构，只能顺序访问。
+
+数组的长度是固定的，不能使用数据动态增减的情况。
+
+而链表动态进行存储分配，可以适应数据动态地增减的情况。
+
+### 简述快速排序的过程
+
+1）选定一个基准元素，通常选择第一个或最后一个元素。
+
+2）通过一趟排序将待排序分割成独立的两部分，其中一部分记录的元素均比基准元素值小；另一部分记录的元素值比基准值大。
+
+3）此时基准元素正好在其最终排序的正确位置上。
+
+4）对前一部分和后一部分采用同样的方法继续进行排序，直到整个序列有序。
+
+#### 快速排序的改进
+
+1）只对长度大于K（一般取8）的子序列调用快速排序，让原序列基本有序，然后在对整个基本有序的序列用**插入排序算法排序**
+
+2）选择基准元的方式：
+
+固定基准元、随机基准元、三数取中
+
+### 邻接矩阵与邻接表
+
+邻接矩阵的优点是可以快速判断两个顶点之间是否存在边，可以快速添加边或删除边。
+
+缺点是：如果顶点之间的边比较少，则比较浪费空间（稀疏图）
+
+邻接表的优点是节省空间，只存储实际存在的边。
+
+缺点是关注顶点度的时候（入度），可能需要遍历整个链表。
+
+### 递归一定比循环效率低吗
+
+不一定，编译器进行优化。
+
+### 解决哈希冲突的方法
+
+线性探测法、平方探测法、伪随机序列法、拉链法。
+
+## 程序设计语言面试
+
+### 面向对象和面向过程的区别
+
+面向过程：分析出解决问题需要的步骤，然后用函数把这些步骤一步一步实现，使用的时候依次调用。
+
+面向对象：把构成问题的事务分解成各个对象，描述某一个事务做某件事情的行为，以功能来划分问题。
+
+e.g.下五子棋
+
+面向过程分析问题的步骤：1.黑棋走，绘制画面，判断输赢，2.白棋走，绘制画面，判断输赢。把上面的步骤按顺序用函数实现即可
+
+面向对象分析问题的步骤，三个对象，玩家对象，棋盘系统，规则系统，玩家对象接受输入并告诉期盼系统输入内容，棋盘系统输入后利用规则系统判断。
+
+### C++中引用和指针的区别
+
+指针是一个对象，它存储的数据类型是数据的地址
+
+而我们可以把引用理解成变量的别名，也可以把它看做通过一个常量指针来实现的。
+
+引用在声明同时必须初始化，而且一经声明就不可以再和其他对象绑定在一起了。
+
+引用一定不为空。
+
+### 面向对象的三个特征
+
+封装、继承、多态
+
+封装：把客观事物封装成抽象的类，对外界实现接口调用，可以隐藏内部方法实现细节。
+
+继承：让一个对象在无需重新编写原来类的情况下拥有另一个对象的属性和方法，同时该对象也可以拥有自己独有的属性和方法。
+
+多态：让一个方法面对不同对象时做出不同的响应。
+
+### Java和C的区别
+
+1）内存管理
+
+在Java中基本不用考虑内存问题，因为在这背后JRE会为对象分配一定的内存，而且也会自动回收
+
+而在C中，要用malloc之类的方法申请内存，用完之后还要调用free方法显式的归还内存。
+
+2）面向对象
+
+Java是面对象的，而C语言是面向过程的
+
+3）Java里面没有指针，不支持全局变量和结构体。
+
+### Java的特点
+
+1）面向对象
+
+2）JVM，JAVA虚拟机可以掩盖不同CPU之间的差别，同体系结构无关的特性可以使Java应用程序可以在配备了Java解释器和运行环境的任何计算机系统上运行。
+
+3）多线程。可以使一个程序里同时执行多个小任务。
+
+## 操作系统面试
+
+### 进程和线程
+
+进程：进程是程序在某个数据集上的一次运行，是一个能够独立运行的活动实体。进程是系统进行资源分配和调度的一个独立单位。
+
+线程：线程**进程的一个实体**，是CPU调度和分派的基本单位，它是比进程更小的能够独立运行的基本单位。线程基本上不拥有系统资源，只拥有一点在运行中必不可少的资源，但是它可以与同属一个进程的其他线程共享进程所拥有的的全部资源。
+
+同一个进程中的多个线程之间可以并发执行。
+
+**进程是动态的，而程序是静态的**
+
+### 操作系统的特征
+
+并发、共享、虚拟、异步
+
+并行指的是两个或多个事件在**同一时刻**发生。
+
+并发指的是两个或多个事件在同一个**时间间隔**内发生。
+
+### 中断与异常
+
+中断是指计算机在执行期间，系统内发生任何非寻常的或者非预期的急需处理的事件，使得CPU暂时中断当前正在执行的程序而转去执行相应的事件处理程序，待处理完毕后又返回原来被中断处继续执行或调度新的进程执行的过程。
+
+异常是指进程在运行时发生了某种异常事件，使程序无法继续运行。（越界错、非法指令、除数为0、越权访问）
+
+### 进程同步的几种方式
+
+软件：单标志法、双标志法、皮特逊算法
+
+硬件：关中断、TestAndSet
+
+信号量、管程
+
+### 软件工程面试
+
+#### 决定软件可维护性的因素
+
+可理解性、可测试性、可维护性
+
+#### 软件的生命周期
+
+三个时期（包含8个阶段）：
+
+软件定义：
+
+包含问题定义、可行性研究、需求分析。
+
+软件开发：
+
+包含概要设计、详细设计（系统设计）、编码和单元测试、综合测试
+
+软件维护
+
+#### 关于中间件
+
+从技术层面来讲，中间件是介于基础设施和业务系统之间的特殊软件。
+
+把一些通用的代码模块打包起来，供给上层随时取用，能省下重复“造轮子”的力气，让敲代码也成为一种模块化的工作。
+
+感觉类型与接口类似
+
+#### 关于瀑布模型
+
+首先瀑布模型是一个迭代且可预见性的方法，他的特点就是在项目的每个阶段有对应的检查点，当一个阶段完成之后，就进行相应的测试检查，随后进入下一个阶段，所以各阶段之间是很少有反馈的。其次便是瀑布模型只有在生命周期的后期才能看到结果。
+
+#### 关于黑盒测试和白盒测试
+
+（1）黑盒测试法:
+把程序看作一个黑盒子，完全不考虑程序的内部结构和处理过程。它只检查程序功能是否能按照规格说明书的规定正常使用，程序是否能适当地接收输入数据并产生正确的输出信息，程序运行过程中能否保持外部信息的完整性。黑盒测试又称为功能测试，包含等价类划分法、边界值法、错误推测法、因果图法等。
+（2）白盒测试法:
+是把程序看成装在一个透明的白盒子里，测试者完全知道程序的结构和处理算法。这种方法按照程序内部的逻辑测试程序，检测程序中的主要执行通路是否都能按预定要求正确工作。白盒测试又称为结构测试，包含逻辑覆盖法和基本路径测试法。
+
+#### 什么是软件工程？
+
+软件工程是采用工程的概念、原理、技术和方法来开发与维护软件的一门工程学科
+
+#### 结构化分析、设计的要点：
+
+结构化分析方法适合于数据处理类型软件的需求分析。 其要点是"自顶向下"地开发系统,由整体到各组成部分,由表及里,由抽象到具体,逐步求精.
+
+(1) 模块化 (2)由顶向下,逐步求精.
+
+(3)上层模块分解为下层模块,有三种不同的结构形式,即顺序结构,选择结构和循环结构.
+
+#### 软件测试的目标，测试方法：
+
+1)测试是为了发现程序中的错误而执行程序的过程；
+
+(2)好的测试方案是极可能发现迄今为止尚未发现的错误的测试方案；
+
+(3)成功的测试是发现了至今为止尚未发现的错误的测试。
+
+软件测试的方法有动态测试、静态测试和正确性证明。
+
+a.黑盒测试： 黑盒测试是将被测软件看出一个黑盒子，只考虑系统的输入和输出，完全不考虑程序内部的逻辑结构和处理过程。 黑盒测试的依据是开发各阶段的需求规格说明。
+
+b.白盒测试：白盒测试是将黑盒子打开，研究源代码和程序内部的逻辑结构；
+
+#### 软件维护的目标，维护的类型：
+
+纠正在使用过程中暴露出来的错误而进行的改进性维护，适应外部环境的变化而进行的适应性维护，改进原有的软件而进行的完善性维护，以及改进将来的可维护性和可靠性而进行的预防性维护。 软件维护的分类： 软件维护主要划分为纠错性维护、适应性维护和完善性维护。
+
+> (1)纠错性维护。由于前期的测试不可能揭露软件系统中所有潜在的错误，用户在使用软件时仍将会遇到错误，诊断和改正这些错误的过程称为纠错性维护。
+>
+> (2)适应性维护。由于新的硬件设备不断推出，操作系统和编译系统也不断地升级，为了使软件能适应新的环境而引起的程序修改和扩充活动称为适应性维护。
+>
+> (3)完善性维护。在软件的正常使用过程中，用户还会不断地提出新的需求。为了满足用户新的需求而增加软件功能的活动称为完善性维护。
+
+#### 模块的耦合和内聚：
+
+内聚是模块功能强度的度量，模块内部各个元素之间的联系越紧密，内聚性越强。
+
+耦合是模块之间相对独立性的度量，模块之间的连接越紧密，耦合性越强
+
+**模块的独立性越高，块之间的联系越紧密，内聚性越强。块之间的联系越弱，耦合性越弱。**
+
+#### 面向对象分析设计的三个模型：
+
+三个模型：对象模型、动态模型、功能模型
+
+（1）对象模型描述系统的静态结构，包括类和对象，它们的属性和操作，以及它们之间的关系。构造对象模型的目的在于找出与应用程序密切相关的概念。对象模型用包含对象及对象的关系图表示。
+
+（2）动态模型着重于系统的控制逻辑，考察在任何时候对象及其关系的改变，描述这些涉及时序和改变的状态。动态模型包括状态图和事件跟踪图。状态图是一个状态和事件的网络，侧重于描述每一类对象的动态行为。事件跟踪图则侧重于说明系统执行过程中的一个特点“场景”，也叫做脚本(scenarios)，是完成系统某个功能的一个事件序列。脚本通常起始于一个系统外部的输入事件，结束于一个系统外部的输出事件。
+
+（3）功能模型着重于系统内部数据的传送和处理。功能模型表明，通过计算，从输出数据能得到什么样的输出数据，但不考虑参加计算的数据按什么时序执行。功能模型由多个数据流图组成，它们指明从外部输出，通过操作和内部存储，直到外部输出的整个数据流情况。功能模型还包括了对象模型内部数据间的限制。功能模型中的数据流图往往形成一个层次结构，一个数据流图的过程可以由下一层的数据流图作进一步的说明。
+
+
 
 
 
